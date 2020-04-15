@@ -5,7 +5,9 @@ so there is no need to download and install anything else.
 
 ## How to start
 ### Prerequisites
-You must have `nodejs` isntalled (with `npm`)
+You must have `nodejs` isntalled (with `npm`).
+Package manager `npm` is already part of `nodejs` installation.
+You can download you installation binaries from [the web-pages](https://nodejs.org/en/download/).
 
 Verify that these commands return you versions of installed `nodeJS` and `npm`.
 ```
