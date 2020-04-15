@@ -26,11 +26,13 @@ npm i
 ```
 
 ### Where to place your tests
-All tests should be placed in folder `./tests`/ and must end with `*_test.js` mask.
+All tests should be placed in folder `./tests`/ and must end with `*_test.js` sufix.
 
 There is already one file prepared for our homework.
 Try to run the project and see what will happen.
-First step of your homework is already prepared for you ;).
+First step of your homework is already prepaired for you.
+Another job well done.
+Don't stop now and carry on.
 
 ### Run tests
 All files matching mask `./tests/*_test.js` are executed by command
