@@ -9,7 +9,7 @@ exports.config = {
   output: './output',
   helpers: {
     Puppeteer: {
-      url: ' http://automationpractice.com',
+      url: 'http://automationpractice.com',
       show: true,
       windowSize: '1200x900'
     }
