@@ -1,7 +1,7 @@
 # CodeceptJS Sandbox
 This repository is a simple sandbox for an easy automation homework.
-The Sandbox is based on [CodeceptJS](https://codecept.io/) framework and uses [Puppeteer](https://codecept.io/helpers/Puppeteer/#puppeteer) as a helper,
-so there is no need to download and install anything else.
+The Sandbox is based on [CodeceptJS](https://codecept.io/) framework and uses [Playwright](https://codecept.io/helpers/Playwright/#playwright) as a driver,
+so there is no need to download or install anything else.
 
 ## How to start
 ### Prerequisites
