@@ -8,9 +8,12 @@ exports.config = {
   tests: 'tests/*_test.js',
   output: './output',
   helpers: {
-    Puppeteer: {
+    Playwright : {
       url: 'http://automationpractice.com',
+      restart: true,
       show: true,
+      waitForNavigation: "networkidle0",
+      waitForAction: 500,
       windowSize: '1200x900'
     }
   },
