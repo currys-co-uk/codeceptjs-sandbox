@@ -1,6 +1,6 @@
-Feature('login');
+Feature('Dixons homework');
 
-Scenario('test something', (I) => {
+Scenario('Register new user', ({I}) => {
     I.amOnPage('/index.php?controller=authentication&back=my-account')
     // Your code goes here
     I.wait(5)
