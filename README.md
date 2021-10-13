@@ -5,7 +5,7 @@ so there is no need to download or install anything else.
 
 ## How to start
 ### Prerequisites
-You must have `nodejs` isntalled (with `npm`).
+You must have `nodejs` installed (with `npm`).
 Package manager `npm` is already part of `nodejs` installation.
 You can download your installation binaries from the [nodejs.org](https://nodejs.org/en/download/) web-pages.
 
@@ -19,7 +19,7 @@ and
 $> npm -v
 6.14.1
 ```
-Note: Most probably you have different version installed, but you shoud be OK.
+Note: Most probably you have different version installed, but you should be OK.
 
 ### Install dependencies
 You can install all dependencies by command
@@ -28,7 +28,7 @@ npm i
 ```
 
 ### Where to place your tests
-All tests should be placed in folder `./tests`/ and must end with `*_test.js` sufix.
+All tests should be placed in folder `./tests`/ and must end with `*_test.js` suffix.
 
 There is already one file prepared for our homework.
 Try to run the project and see what happens.

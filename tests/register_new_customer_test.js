@@ -1,4 +1,4 @@
-Feature('Dixons homework');
+Feature('Currys homework');
 
 Scenario('Register new user', ({I}) => {
     I.amOnPage('/index.php?controller=authentication&back=my-account')
